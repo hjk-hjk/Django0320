@@ -2,7 +2,9 @@
 <h2> 작성자 정보 </h2>
 <h3>
 * 이름 : 김현지 <br>
-* 전화번호 : 010-2323-1212
+* 전화번호 : 010-2323-1212  <br>
+* 주소 : 서울튿별시 영등포구 <br>
+* 프로젝트 기간 : 2025/03/20-2025/03/25  <br>
 </h3> 
 
 [![유튜브 동영상](https://img.youtube.com/vi/cgz6o06AQPE/0.jpg)]([https://www.youtube.com/watch?v=cgz6o06AQPE](https://www.youtube.com/watch?v=1V3SHXk4yM8))
